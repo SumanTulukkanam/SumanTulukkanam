@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumantulukkanam&label=Profile%20views&color=0e75b6&style=flat" alt="sumantulukkanam" /> </p>
 
-- 🔭 I’m currently working on **FULL STACK**
 
 - 🌱 I’m currently learning **B-TECH AI&DS**
 
